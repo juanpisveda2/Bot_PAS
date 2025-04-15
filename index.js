@@ -27,8 +27,4 @@ app.post('/send', async (req, res) => {
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en puerto ${PORT}`);
-<<<<<<< HEAD
 }); //cambio git
-=======
-});
->>>>>>> e35157a53249623cf3d7dcb40e41df09441b7090
