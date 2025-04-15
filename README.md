@@ -2,6 +2,7 @@
 
 Este proyecto es un bot de atención automática por WhatsApp diseñado para Productores Asesores de Seguros (PAS). El bot automatiza la atención al cliente, recopila datos para cotizaciones, muestra precios de distintas aseguradoras y deriva a un PAS para la asesoría personalizada.
 
+<<<<<<< HEAD
 ## Tecnologías Usadas
 
 - **Node.js** con **Express**
@@ -50,3 +51,6 @@ Este proyecto es un bot de atención automática por WhatsApp diseñado para Pro
     4. Haz un pull request explicando los cambios realizados.
 
 
+=======
+Autores: Jp & Santi
+>>>>>>> e35157a53249623cf3d7dcb40e41df09441b7090
